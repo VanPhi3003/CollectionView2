@@ -1,11 +1,3 @@
-//
-//  CollectionView_FlickrSearchUITests.swift
-//  CollectionView_FlickrSearchUITests
-//
-//  Created by MrDummy on 4/29/17.
-//  Copyright © 2017 Phi. All rights reserved.
-//
-
 import XCTest
 
 class CollectionView_FlickrSearchUITests: XCTestCase {
